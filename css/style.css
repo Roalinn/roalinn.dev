@@ -74,6 +74,46 @@ hr{
     margin-bottom: 20px;
 }
 
+.table-container p{
+    color: white;
+    opacity: .5;
+    font-size: 20px;
+}
+
+.table-container img{
+
+}
+
+.code {
+    width: 100%;
+    background-color: #0b0c1d;
+    box-shadow: 0px 0px 5px black;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-right: 20px;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.code pre {
+    color: white;
+    opacity: 60%;
+    font-size:larger;
+}
+
+.blog-back {
+    margin-left: 20px;
+    transition: transform .1s;
+    cursor: pointer;
+    position: sticky;
+    top: 20px;
+    margin-top: 20px;
+}
+
+.blog-back:hover{
+    transform: scale(1.1);
+}
+
 .table-item .col{
     height: 128px;
     background-color: #0b0d20;
