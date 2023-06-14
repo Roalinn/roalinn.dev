@@ -194,3 +194,21 @@ hr{
     transform: scale(1.1);
     cursor: pointer;
   }
+
+  .game-img{
+    width: 100%;
+    
+  }
+  
+  .table-container .column{
+    margin-top: 20px;
+    color: white;
+    opacity: 40%;
+    margin-left: 20px;
+    float:  left;
+    width: 40%;
+  }
+
+  .table-container p{
+    margin-top: 10px;
+  }
